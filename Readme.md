@@ -93,6 +93,7 @@ Yahoo!
 
 # Apache Spark Architecture
 ![Spark Architecture](./figures/spark_architecture.png)
+
 # Spark RDD
 
 
